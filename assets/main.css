@@ -200,6 +200,44 @@ h1 {
 	
 /* --------------------------- */
 
+#images {
+	margin-left: 250px;
+}
+
+.gal1 {
+	animation: animIn 0.5s 1s ease forwards;
+	width: 40%;
+	opacity: 0;
+}
+.gal2 {
+	animation: animIn 0.5s 1.2s ease forwards;
+	width: 40%;
+	opacity: 0;
+}
+.gal3 {
+	animation: animIn 0.5s 1.4s ease forwards;
+	width: 40%;
+	opacity: 0;
+}
+.gal4 {
+	animation: animIn 0.5s 1.6s ease forwards;
+	width: 40%;
+	opacity: 0;
+}
+.gal5 {
+	animation: animIn 0.5s 1.8s ease forwards;
+	width: 40%;
+	opacity: 0;
+}
+.gal6 {
+	animation: animIn 0.5s 2s ease forwards;
+	width: 40%;
+	opacity: 0;
+}
+
+/* --------------------------- */
+
+
 @keyframes animIn {
 	0% {
 		transform: translateX(90px);
