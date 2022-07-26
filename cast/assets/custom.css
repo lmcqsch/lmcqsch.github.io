@@ -1,0 +1,97 @@
+#cast {
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+	
+	width: 600px;
+    margin-top: 200px;
+}
+
+
+.cast {
+	display: block;
+	margin: 0 auto;
+	width: 500px;
+	height: 160px;
+	margin-top: 10px;
+	background: rgba(10,10,10,0.5);
+}
+.cast_info {
+	font-size: 1.4em;
+	margin-top: 45px;
+	text-align: center;
+	font-weight: bold;
+}
+
+
+.imgone, .imgtwo {
+	width: 25%;
+	margin-top: 10px;
+}
+
+.imgone {
+	float: left;
+}
+.imgtwo {
+	float: right;
+}
+
+
+.atari {
+	animation: animIn 0.5s 1s ease forwards;
+	opacity: 0;
+}
+.chief {
+	animation: animIn 0.5s 1.2s ease forwards;
+	opacity: 0;
+}
+.spots {
+	animation: animIn 0.5s 1.4s ease forwards;
+	opacity: 0;
+}
+.rex {
+	animation: animIn 0.5s 1.6s ease forwards;
+	opacity: 0;
+}
+.king {
+	animation: animIn 0.5s 1.8s ease forwards;
+	opacity: 0;
+}
+.duke {
+	animation: animIn 0.5s 2s ease forwards;
+	opacity: 0;
+}
+.boss {
+	animation: animIn 0.5s 2.2s ease forwards;
+	opacity: 0;
+}
+.kobayashi {
+	animation: animIn 0.5s 2.4s ease forwards;
+	opacity: 0;
+}
+.domo {
+	animation: animIn 0.5s 2.6s ease forwards;
+	opacity: 0;
+}
+.tracy {
+	animation: animIn 0.5s 2.8s ease forwards;
+	opacity: 0;
+}
+.nutmeg {
+	animation: animIn 0.5s 3s ease forwards;
+	opacity: 0;
+}
+.jupiter {
+	animation: animIn 0.5s 3.2s ease forwards;
+	opacity: 0;
+}
+.oracle {
+	animation: animIn 0.5s 3.4s ease forwards;
+	opacity: 0;
+}
+
+.narrator {
+	margin-bottom: 100px;
+	animation: animIn 0.5s 3.6s ease forwards;
+	opacity: 0;
+}

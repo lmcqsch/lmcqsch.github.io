@@ -1,0 +1,17 @@
+#storyline {
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 200px;
+	font-size: 1.3em;
+	width: 880px;
+}
+.bottom {
+	font-size: 1.1em;
+	color: lightgray;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 50px;
+	animation: animIn 1s 2s ease forwards;
+	opacity: 0;
+}

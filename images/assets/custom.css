@@ -1,0 +1,29 @@
+#images {
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+
+.gal1 {
+	animation: animIn 0.5s 1s ease forwards;
+}
+.gal2 {
+	animation: animIn 0.5s 1.2s ease forwards;
+}
+.gal3 {
+	animation: animIn 0.5s 1.4s ease forwards;
+}
+.gal4 {
+	animation: animIn 0.5s 1.6s ease forwards;
+}
+.gal5 {
+	animation: animIn 0.5s 1.8s ease forwards;
+}
+.gal6 {
+	animation: animIn 0.5s 2s ease forwards;
+}
+
+img	{
+	display: block;
+	margin: 0 auto;
+	width: 90%;
+}

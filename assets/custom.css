@@ -1,0 +1,25 @@
+#main {
+	display: block;
+	text-align: center;
+	margin: 0 auto;
+	width: 1000px;
+    margin-top: 200px;
+}
+
+.iod1 {
+	animation: animIn 1s 1s ease forwards;
+	opacity: 0;
+	width: 100%;
+}
+.ioddesc {
+	animation: animIn 1s 1.5s ease forwards;
+	opacity: 0;
+    font-size: 1.3em;
+}
+
+.wes {
+	animation: animIn 1s 2s ease forwards;
+	opacity: 0;
+	font-size: 1em;
+	margin-top: 20px;
+}
